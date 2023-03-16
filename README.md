@@ -57,10 +57,9 @@ to an organization as a software engineer, as well as grow and develop my own sk
 <h2><i>My GitHub Stats</i></h2>
 <br>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanNinave&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="AmanNinave" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNinave&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="AmanNinave" height="139" />
-</p>
+<p align="center"><img align="center" width="60%" height="40%" src="https://github-readme-stats.vercel.app/api?username=AmanNinave&show_icons=true&locale=en&theme=tokyonight" alt="Aman Ninave" /></p>
+<p align="center"><img align="center" width="66%" height="36%"  src="https://github-readme-streak-stats.herokuapp.com/?user=AmanNinave&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Aman Ninave" /></p>
+<p align="center"><img align="center" width="" height="236px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanNinave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Aman Ninave" /></p>
 
-<a href="https://github.com/shubham0709/github-readme-activity-graph"><img alt="Aman Ninave's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanNinave&&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+
 <br/>
