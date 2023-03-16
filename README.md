@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
 
-### Hi 👋, I'm AmanNinave
+### Hi 👋, I'm Aman Ninave
 
 
 <h3 align="justify">Results-driven full stack web developer who is passionate about developing user-friendly software
@@ -49,6 +49,8 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 
 <a href="https://linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham0709" height="30" width="40" /></a>
+  
+
 
 
 </p>
