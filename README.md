@@ -44,16 +44,12 @@ to an organization as a software engineer, as well as grow and develop my own sk
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-
-
-
-<a href="https://linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham0709" height="30" width="40" /></a>
-  
-
-
-
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_barore" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmanNinave" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
