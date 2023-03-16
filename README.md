@@ -43,11 +43,20 @@ to an organization as a software engineer, as well as grow and develop my own sk
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=AmanNinave" alt="AmanNinave" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_barore" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmanNinave" height="30" width="40" /></a>
+</p> -->
+
+</p>
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rajshree" /></a>
+  
+  <a title="amanninave987@gmail.com" href="mailto:amanninave987@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rajshree" /></a> 
 </p>
 
 
