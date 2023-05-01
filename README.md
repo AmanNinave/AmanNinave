@@ -31,7 +31,7 @@ to an organization as a software engineer, as well as grow and develop my own sk
 
 - 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-aman-ninave.netlify.app/](https://portfolio-aman-ninave.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://AmanNinave.github.io](https://AmanNinave.github.io)
 
 - 💬 Ask me about <b>MERN Stack</b>
 
