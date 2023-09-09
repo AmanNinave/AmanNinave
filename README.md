@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 ### Hi 👋, I'm Aman Ninave
 
 
-<h3 align="justify">Results-driven full stack web developer who is passionate about developing user-friendly software
-applications. Excellent problem-solving skills and ability to perform well in a team. Willing to contribute
-to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
+<h3 align="justify">
+ Data structures and algorithms enthusiast, Quick learner, and an aspiring full-stack web developer with core knowledge of MERN stack technology. Excellent problem-solving skills and ability to perform well in a team. Willing to contribute to an organization as a software engineer, as well as grow and develop my own skills as a coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanNinave&label=Profile%20views&color=0e75b6&style=flat" alt="AmanNinave" /> </p>
 
