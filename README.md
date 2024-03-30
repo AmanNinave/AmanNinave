@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
 
-- 👨‍💻 All of my projects are available at https://AmanNinave.github.io/
+- 👨‍💻 All of my projects are available at [https://AmanNinave.github.io/](https://aman-ninave-portfolio.vercel.app/)
 
 - 💬 Ask me about <b>MERN Stack</b>
 
