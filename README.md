@@ -37,7 +37,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" />
+<img src="https://github.com/AmanNinave/AmanNinave/blob/main/Screenshot%20from%202024-04-25%2022-30-44.png" />
 
 <h2><i>My GitHub Stats</i></h2>
 <br>
