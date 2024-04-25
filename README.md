@@ -12,7 +12,7 @@
  
 ## Fun Fact 🎈:
 
-- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJD ReactJS NodeJS </b>
+- 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJS ReactJS NodeJS </b>
 
 - 👨‍💻 All of my projects are available at [https://aman-ninave-portfolio.vercel.app/](https://aman-ninave-portfolio.vercel.app/)
 
