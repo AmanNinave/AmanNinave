@@ -14,13 +14,13 @@
 
 - 🌱 I’m proficient in <b> HTML CSS JavaScript & MongoDB ExpressJS ReactJS NodeJS </b>
 
-- 👨‍💻 All of my projects are available at [https://aman-ninave-portfolio.vercel.app/](https://aman-ninave-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [www.amanninave.in](https://www.amanninave.in/)
 
 - 💬 Ask me about <b>MERN Stack</b>
 
-- 📫 Contact me **amanninave987@gmail.com**
+- 📫 Contact me **hello@amanninave.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18eopvpn2KOoiqy7qVN1KZqylVlpgGohO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c48zG5HMxmUq0WkvelLHevA14vU7I-2S/view)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=AmanNinave" alt="AmanNinave" /></a>
@@ -30,9 +30,9 @@
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/aman-ninave-61890a1aa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rajshree" /></a>
+<a href="https://www.linkedin.com/in/amanninave" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aman" /></a>
   
-  <a title="amanninave987@gmail.com" href="mailto:amanninave987@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aman" /></a> 
+  <a title="hello@amanninave.in" href="mailto:hello@amanninave.in" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aman" /></a> 
 </p>
 
 
